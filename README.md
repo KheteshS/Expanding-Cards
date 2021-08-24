@@ -1,5 +1,5 @@
 # expanding-cards
-Day 1/30
+Day 1/50
 
 demo - [expanding-cards](https://kind-snyder-7593a2.netlify.app/)
 ---
